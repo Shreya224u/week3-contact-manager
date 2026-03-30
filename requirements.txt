@@ -1,0 +1,7 @@
+# Contact Management System Requirements
+
+# This project uses only Python standard libraries.
+# No external packages are required.
+
+# Python Version
+python>=3.8
